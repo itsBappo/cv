@@ -1,0 +1,39 @@
+/*estilos de texto*/
+
+#title{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 20px;
+
+}
+
+.letra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: black;
+
+}
+
+/*estilos de hoja*/ 
+
+body{
+    background-color: beige
+    ;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.foto {
+    border: 6px black double;
+    float: right;
+
+}
+
